@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://schlichta.github.io/MyFirstWebSite/sitemap.xml
+Sitemap: https://schlichta.ch/sitemap.xml
