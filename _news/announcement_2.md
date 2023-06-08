@@ -30,3 +30,13 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+
+
+<!-- ---
+layout: post
+date: 2016-01-15 07:59:00-0400
+inline: true
+related_posts: false
+---
+
+A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
